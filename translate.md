@@ -1,6 +1,21 @@
 # 地名
 安塔利亚 Antalya
 达拉曼 Dalaman
+土耳其 Turkey
+伊朗 Iran
+德黑兰 Teheran
+伊斯坦布尔 Istanbul
+阿塔图尔克国际机场 Atatürk International Airport
+卡帕多奇亚 Kapadokya
+格雷梅 Goreme
+开塞利机场 Kayseri Airport
+费特希耶 Fethiye
+死海 dead sea
+地中海 Mediterranean Sea
+棉花堡 pamukkale
+代尼兹利机场 Denizli Airport
+热气球 fire balloon
+滑翔翼 hang glider
 
 # 点菜
 汤 Corba
