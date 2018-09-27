@@ -1,3 +1,6 @@
+Budget的柜台在Dalaman International Airport的国际到达大厅（International arrivals area）
+Tips：为了还车更便捷，取车时请提前向店员咨询如何还车!
+
 # 租车
 Avis
 Budget

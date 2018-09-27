@@ -8,6 +8,7 @@
 2 伊斯坦布尔卡(机场)
 3 turkey meseum pass(圣索菲亚大教堂人工售票点)
 4 exchange office(蓝色清真寺附近有很多)
+5 游客中心
 ```
 
 费特希耶

@@ -1,5 +1,32 @@
+# 地名
 安塔利亚 Antalya
 达拉曼 Dalaman
+
+# 点菜
+汤 Corba
+前菜 Meze
+沙拉 Salata
+烤肉 Kebab
+甜品 Tatli
+烤羊肉串 Sls Kebabi
+炖肉 Guvec
+陶罐烤羊肉 Testl Kebabi
+甜点 Kunefe
+
+Hediye / Evet 免费送
+Yok 收费的
+
+# 邮局 
+简称 Ptt
+可以在邮局处理交通罚单 高速收费卡等问题
+
+# 租车
+transmission 变速器 传动装置
+manual
+automatic
+
+diesel 柴油
+gasoline 汽油
 
 
 # 机场
