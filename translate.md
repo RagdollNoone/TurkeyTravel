@@ -1,4 +1,6 @@
 # 地名
+
+```txt
 安塔利亚 Antalya
 达拉曼 Dalaman
 土耳其 Turkey
@@ -16,8 +18,11 @@
 代尼兹利机场 Denizli Airport
 热气球 fire balloon
 滑翔翼 hang glider
+```
 
 # 点菜
+
+```txt
 汤 Corba
 前菜 Meze
 沙拉 Salata
@@ -30,12 +35,19 @@
 
 Hediye / Evet 免费送
 Yok 收费的
+```
 
-# 邮局 
+# 邮局
+
+```txt
 简称 Ptt
 可以在邮局处理交通罚单 高速收费卡等问题
+```
+
 
 # 租车
+
+```txt
 transmission 变速器 传动装置
 manual
 automatic
@@ -43,8 +55,12 @@ automatic
 diesel 柴油
 gasoline 汽油
 
+vehicle travel license 车辆行驶证
+```
 
 # 机场
+
+```txt
 visa 签证
 check bag 托运的包裹
 carry on bag 随身携带的包裹
@@ -81,15 +97,18 @@ Where is baggage claim? 哪里取行李?
 We have to confiscate it. 我们不得不没收它.
 
 I will go to check out line 我要去付账的队伍
-
+```
 
 # 酒店
+
+```txt
 bring / take away 拿来 / 拿走
-
 hi, this is deny zhou in room 201 hi, 我是201房间的周
-
+```
 
 # 转机
+
+```txt
 Missing Connecting flight
 front desk 前台
 gift shops 免税店
@@ -120,8 +139,11 @@ If you come with me, I'll show you where you can catch the shuttle to your hotel
 Please wait here for the shuttle.
 The one going to your hotel has a sign that says PanPacific. 去你酒店的大巴有一个"泛太平洋"的标识
 How often do the shuttles run from the hotel? 机场大巴隔多久一班
+```
 
 # 机场/上广播
+
+```txt
 announcement on the airport / airplane
 captain 机长
 fasten seat belt sign lit up(turn up) 安全带指示灯(在座位上面)点亮的
@@ -156,9 +178,11 @@ Please return to your seat and keep your seat belts fastened.
 
 We have just been cleared to land at the JFK airport. 机场已经给我们着陆的回复了
 Please make sure one last time your seat belt is securely fastened.
-
+```
 
 # 租车 Car Rental
+
+```txt
 go with = choose
 daily rate 每天的租金
 collision 承担己方的修理费用
@@ -188,3 +212,4 @@ We also need your friend's driver's licence.
 Let me just(语气委婉) confirm all this to make sure we've got everything right.
 When you return the car, make sure to fill it up with gas.
 If not, you're gonna be charged for a full tank of gas. 如果没有加满, 就会加收你一整箱的油钱
+```
